@@ -1,7 +1,11 @@
-# Eleve ingénieur
+# Eleve ingénieur en maths appliquées et modélisation
 
 ### Education
-polytech
+polytech nice sophia
 
 ### Work Experience
-apagnaan
+btp
+biocoop
+
+### Projets
+n8n automatisation IA
