@@ -1,5 +1,3 @@
-# 📬 Automatisation intelligente de boîte Gmail avec n8n
-
 ## 📌 Présentation générale
 
 Ce projet est un **système complet d’automatisation de boîte Gmail**, basé sur l’intelligence artificielle, dont l’objectif est de **gagner du temps**, **éviter les erreurs humaines** et **maintenir une boîte mail propre et organisée sans intervention manuelle**.
