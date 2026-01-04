@@ -1,4 +1,4 @@
-# Eleve ingénieur en maths appliquées et modélisation
+# Automatisation d'une boîte mail avec OpenAI
 
 ### Education
 polytech nice sophia
