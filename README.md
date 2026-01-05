@@ -69,8 +69,7 @@ Classer automatiquement chaque email entrant et garantir qu’**aucun message cr
    - Archivage automatique des publicités  
    - Notification Telegram instantanée pour les emails urgents  
 
-📷 *Insérer ici une capture du workflow tri + notification*  
-`![Workflow tri et notification](screenshots/classification-notification.png)`
+![Workflow tri et notification](img/tri.png)
 
 ### 🔹 Bénéfices
 - Traitement en temps réel  
