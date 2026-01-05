@@ -6,7 +6,7 @@ Ce projet est un **système complet d’automatisation de boîte Gmail**, basé 
 
 Développé avec **n8n**, hébergé sur un **VPS**, et s’appuyant sur **l’API OpenAI**, le système analyse les emails entrants en temps réel, les classe automatiquement, déclenche des notifications pour les messages urgents et effectue des tâches de nettoyage planifiées.
 
-> ⏱️ Résultat : **20 à 30 minutes économisées par jour**, **aucun email important manqué**, gestion entièrement automatisée de la boîte mail.
+⏱️ Résultat : **20 à 30 minutes économisées par jour**, **aucun email important manqué**, gestion entièrement automatisée de la boîte mail.
 
 ---
 
