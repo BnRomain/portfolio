@@ -32,8 +32,7 @@ Le projet repose sur **deux workflows principaux**, conçus pour limiter la comp
 2. **Workflow planifié**  
    → Nettoyage automatique de la boîte mail et envoi du récapitulatif quotidien  
 
-📷 *Insérer ici une capture du schéma global*  
-`![Architecture globale](screenshots/global-workflow.png)`
+![Workflow de tri automatique des emails](img/general.png)
 
 ---
 
