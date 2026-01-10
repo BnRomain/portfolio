@@ -88,7 +88,7 @@ Assurer une **hygiène durable de la boîte mail** et fournir une vision synthé
 - Envoi d’un **récapitulatif quotidien à 20h** indiquant le nombre d’emails reçus par catégorie  
 
 📷 *Insérer ici une capture du workflow nettoyage + récap*  
-`![Workflow nettoyage et récapitulatif](screenshots/cleanup-summary.png)`
+`![Workflow de nettoyage et récap](img/nettoyage.png)`
 
 ### 🔹 Bénéfices
 - Boîte de réception toujours organisée  
