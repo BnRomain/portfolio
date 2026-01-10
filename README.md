@@ -159,4 +159,4 @@ Projet développé dans une démarche personnelle, mettant en œuvre :
 - Utilisation raisonnée de l’IA en production
 
 Projet réalisé par **Romain Ben**  
-🔗 LinkedIn : [romainben](www.linkedin.com/in/romainben)
+🔗 LinkedIn : [romainben](https://www.linkedin.com/in/romainben/)
