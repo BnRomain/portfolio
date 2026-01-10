@@ -156,4 +156,7 @@ Projet développé dans une démarche personnelle, mettant en œuvre :
 - Automatisation de processus  
 - Intégration d’API  
 - Optimisation de workflows  
-- Utilisation raisonnée de l’IA en production  
+- Utilisation raisonnée de l’IA en production
+
+Projet réalisé par **Romain Ben**  
+🔗 LinkedIn : [romainben](www.linkedin.com/in/romainben)
