@@ -71,6 +71,8 @@ Classer automatiquement chaque email entrant et garantir qu’**aucun message cr
 
 ![Workflow tri et notification](img/tri.png)
 
+![Notification urgent](img/urg.png)
+
 ### 🔹 Bénéfices
 - Traitement en temps réel  
 - Réduction du risque d’oubli  
@@ -88,6 +90,8 @@ Assurer une **hygiène durable de la boîte mail** et fournir une vision synthé
 - Envoi d’un **récapitulatif quotidien à 20h** indiquant le nombre d’emails reçus par catégorie  
 
 ![Workflow de nettoyage et récap](img/nettoyage.png)
+
+![Notification récap](img/recap.png)
 
 ### 🔹 Bénéfices
 - Boîte de réception toujours organisée  
