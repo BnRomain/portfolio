@@ -56,7 +56,7 @@ Classer automatiquement chaque email entrant et garantir qu’**aucun message cr
 
 ### 🔹 Catégories gérées
 - **Publicités**
-- **Achats**
+- **Achats et commandes**
 - **Importants**
 - **Actions requises**
 - **Urgents**
@@ -96,7 +96,7 @@ Assurer une **hygiène durable de la boîte mail** et fournir une vision synthé
 ### 🔹 Bénéfices
 - Boîte de réception toujours organisée  
 - Moins de charge cognitive  
-- Exécution planifiée optimisée dans un seul workflow  
+- Exécution planifiée et optimisée dans un seul workflow  
 
 ---
 
@@ -145,18 +145,16 @@ Assurer une **hygiène durable de la boîte mail** et fournir une vision synthé
 - **Détecteur de spam dédié**, combinant IA et heuristiques classiques  
 - **Amélioration de la précision de la catégorisation**, avec apprentissage progressif à partir des corrections utilisateur  
 - **Génération automatique de brouillons de réponse par l’IA** pour les emails nécessitant une action  
-- Support multi-comptes Gmail  
-- Tableau de bord web de suivi et d’analytique  
 
 ---
-
-## 👨‍💻 Auteur
 
 Projet développé dans une démarche personnelle, mettant en œuvre :
 - Automatisation de processus  
 - Intégration d’API  
 - Optimisation de workflows  
 - Utilisation raisonnée de l’IA en production
+
+## 👨‍💻 Auteur
 
 Projet réalisé par **Romain Ben**  
 🔗 LinkedIn : [romainben](https://www.linkedin.com/in/romainben/)
